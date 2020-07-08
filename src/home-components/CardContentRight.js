@@ -4,7 +4,7 @@ const CardContentRight = () => {
     return (
         <div id="card-content-right">
             <div id="card-img">
-                <img src="../../girl-computer.jpg"/>
+                <img alt="cybersecurity-icon" src="../../girl-computer.jpg"/>
             </div>
             <div id="card-content">
                 <h3>The Journey to Better Cybersecurity Protection</h3>

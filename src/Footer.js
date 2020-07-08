@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <div id="footer">
             <div id="footer-logo">
-                <img src="../../logo.png"/>
+                <img alt="logo" src="../../logo.png"/>
                 <p>© 2020 | Ashburn, Virginia</p>
             </div>
             <div id="footer-content">

@@ -8,7 +8,7 @@ const JourneySteps = () => {
                 <ul>
                     <li>
                         <div className="timeline-icon">
-                            <img src="../../virtual.png"/>
+                            <img alt="cybersecurity" src="../../virtual.png"/>
                         </div>
                         <div className="timeline-content">
                             <h1>Onboarding.</h1>
@@ -19,7 +19,7 @@ const JourneySteps = () => {
                     </li>
                     <li>
                         <div className="timeline-icon">
-                        <img src="../../virtual.png"/>
+                        <img alt="cybersecurity" src="../../virtual.png"/>
                         </div>
                         <div className="timeline-content">
                             <h1>Cyber Risk Assessment.</h1>
@@ -28,7 +28,7 @@ const JourneySteps = () => {
                     </li>
                     <li>
                         <div className="timeline-icon">
-                        <img src="../../virtual.png"/>
+                        <img  alt="cybersecurity" src="../../virtual.png"/>
                         </div>
                         <div className="timeline-content">
                             <h1>Systems Remediation.</h1>
@@ -37,7 +37,7 @@ const JourneySteps = () => {
                     </li>
                     <li>
                         <div className="timeline-icon">
-                            <img src="../../virtual.png"/>
+                            <img  alt="cybersecurity-icon" src="../../virtual.png"/>
                         </div>
                         <div className="timeline-content">
                             <h1>Managed Threat Detection and Response.</h1>
@@ -48,7 +48,7 @@ const JourneySteps = () => {
                     </li>
                     <li>
                         <div className="timeline-icon">
-                        <img src="../../virtual.png"/>
+                        <img alt="cybersecurity-icon" src="../../virtual.png"/>
                         </div>
                         <div className="timeline-content">
                             <h1>Ongoing Risk Management.</h1>
@@ -57,7 +57,7 @@ const JourneySteps = () => {
                     </li>
                     <li>
                         <div className="timeline-icon">
-                        <img src="../../virtual.png"/>
+                        <img alt="cybersecurity-icon" src="../../virtual.png"/>
                         </div>
                         <div className="timeline-content">
                             <h1>Virtual CSO.</h1>

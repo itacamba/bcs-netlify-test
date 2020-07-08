@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Nav from './navbar/Nav'
 import Footer from './Footer'
@@ -7,8 +6,7 @@ import Home from './pages/Home'
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Redirect
+  Route
 } from "react-router-dom";
 import ContactUs from './ContactUs';
 

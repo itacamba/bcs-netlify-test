@@ -5,7 +5,7 @@ const FormAndPhoto = () => {
         <div id="form-and-p-container">
             <div className="half-page-photo">
                 <div className="half-photo">
-                    <img src="../../cyber-lock-opaque.jpg"/>
+                    <img alt="cybersecurity" src="../../cyber-lock-opaque.jpg"/>
                 </div>
                 <div className="half-content">
                     <h2>Ready to start your business on a more</h2>

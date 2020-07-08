@@ -40,16 +40,3 @@ class Nav extends Component {
 
 export default Nav;
 
-
-{/* <div id="nav-section">
-                <div id="nav-container">
-                    <div id="logo">
-                        <Link to="/"><img alt="bcs-logo" src="../../logo.png" /></Link>
-                    </div>
-                    <nav >
-                            <Link >Resources</Link>
-                            <Link >Company</Link>
-                            <Link ><button className="blue-button">Contact Us</button></Link>
-                    </nav>
-                </div>
-            </div> */}

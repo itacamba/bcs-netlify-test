@@ -4,7 +4,7 @@ const MainBanner = () => {
     return (
         <div id="main-banner">
             <div id="banner-img">
-                <img src="../../girl-code-smaller.jpg"/>
+                <img alt="girl-codes" src="../../girl-code-smaller.jpg"/>
             </div>
             <div id="banner-content">
                 <h1>A Partnership for Better Security</h1>

@@ -474,8 +474,8 @@ form input{
 /*-- FOOTER --*/
 #footer{
   width: 100%;
-  background: violet;
-  /* background-color: #181919; */
+  /* background: violet; */
+  background-color: #181919;
   height:200px;
   display: flex;
   justify-content: space-between;

@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### Carla Sahagun Dependencies added to project
+- to enable third-party email service =>  npm install emailjs-com —save 
+- to enable router => npm install --save react-router-dom

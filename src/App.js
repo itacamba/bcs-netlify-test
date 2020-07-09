@@ -8,7 +8,6 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-import ContactUs from './ContactUs';
 
 
 function App() {
@@ -19,7 +18,6 @@ function App() {
             <Route exact path="/" component={Home} />
       </Switch>
       <Footer/>
-      <ContactUs/>
     </Router>
   );
 }

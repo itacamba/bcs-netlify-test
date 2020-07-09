@@ -1,5 +1,5 @@
 import React from 'react';
-import FormContact from '../shared-components/FormContact'
+import FormContact from '../FormContact'
 const FormAndPhoto = () => {
     return (
         <div id="form-and-p-container">

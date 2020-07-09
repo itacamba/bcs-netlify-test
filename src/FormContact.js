@@ -34,21 +34,8 @@ class FormContact extends Component {
             email: '',
             phone: ''
         })
-        // const templateId = 'template_L21eGJu2';
-    
-        // this.sendFeedback(templateId, {message_html: this.state.feedback, from_name: this.state.name, reply_to: this.state.email})
       }
-    
-      // sendFeedback = (templateId, variables) => {
-      //   window.emailjs.send(
-      //     'outlook', templateId,
-      //     variables
-      //     ).then(res => {
-      //       console.log('Email successfully sent!')
-      //     })
-      //     // Handle errors here however you like, or use a React error boundary
-      //     .catch(err => console.error('Oh well, you failed. Here some thoughts on the error that occured:', err))
-      // }
+
 
     render() {
         const {name, companyName, email, phone} = this.state
@@ -67,15 +54,6 @@ class FormContact extends Component {
                     <label>Phone <span>*</span></label>
                     <input type="text"  name="phone" value={phone}  onChange={this.handleChange}/>
                     <div className="spacer"></div>
-                    {/* <textarea
-                      id="test-mailing"
-                      name="test-mailing"
-                      onChange={this.handleChange}
-                      placeholder="Post some lorem ipsum here"
-                      required
-                      value={this.state.feedback}
-                      style={{width: '100%', height: '150px'}}
-      	            /> */}
                     <input type="button" value="Begin Partnership" className="blue-button" onClick={this.handleSubmit} />
                     {/* <button  className="blue-button">Begin Partnership</button> */}
                 </form>
